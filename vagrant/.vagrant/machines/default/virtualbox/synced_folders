@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ikepon/ikepon/web_analyst/vagrant","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ikepon/ikepon/web_analyst/vagrant","disabled":false,"__vagrantfile":true},"v-csc-94847d16c":{"id":"v-csc-94847d16c","guestpath":"/tmp/vagrant-chef/07812bfb23b54aca50f4ae53ea6e62a8/cookbooks","hostpath":"/Users/ikepon/ikepon/web_analyst/vagrant/cookbooks","disabled":false,"__vagrantfile":true}}}
